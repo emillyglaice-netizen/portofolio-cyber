@@ -1,1 +1,1 @@
-portfolio-Emilly Glayce
+portfolio-Emilly Glayce  - Projetos em Blue Team: Scripts Bash para monitoramento de redes. Foco em Linux e SOC N1."
